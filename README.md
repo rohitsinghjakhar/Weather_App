@@ -1,1 +1,3 @@
-# Weather_App
+# Weather-App
+HTML || CSS || JAVASCRIPT
+@Rohit Choudhary
